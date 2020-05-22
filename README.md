@@ -1,8 +1,11 @@
 # axemo-
 transactions logic
 
-open 'app.py' for the main code of af all the processes working together. the main background codes started from about line 
-alo see 'BITPAPP.py you might find something useful there.
+##### open "app.py" for the main code of af all the processes working together. the main background codes started from line 700 the other codes above line 700 are just mainly codes for rendering the tkinter GUI. but there are also some useful code between those GUI codes.####
+
+#### alo see "BITPAPP.py" you might find something useful there.####
+
+##### I also added luno transfers and adress geneation apps and also transaction list checker app 
 
 I used normal threads for the asynchronous code execution because celery was too complicated to set-up and i discovered that they 
 basically do the same thing. but celery just needed extra protocols. celery just takes data from the message queue and processes it with
