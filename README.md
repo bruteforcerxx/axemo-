@@ -1,9 +1,10 @@
 # axemo-
+#Author Olu Michael
 transactions logic
 
 ##### open "app.py" for the main code of af all the processes working together. the main background codes started from line 700 the other codes above line 700 are just mainly codes for rendering the tkinter GUI. but there are also some useful code between those GUI codes.####
 
-#### alo see "BITPAPP.py" you might find something useful there.####
+#### also see "BITPAPP.py" you might find something useful there.####
 
 ##### I also added luno transfers and adress geneation apps and also transaction list checker app 
 
